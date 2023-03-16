@@ -1,6 +1,7 @@
 export const SCRIPTS = `\
 <script src="https://unpkg.com/prismjs@1.22.0/components/prism-core.min.js"></script>
 <script src="https://unpkg.com/prismjs@1.22.0/plugins/autoloader/prism-autoloader.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/iframe-resizer@4.3.6/js/iframeResizer.contentWindow.min.js"></script>
 <script>
 MathJax = {
   tex: {
